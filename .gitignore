@@ -13,6 +13,7 @@ project.lock.json
 
 /packages
 /TestResults
+/coverage
 
 /tools/NuGet.exe
 /App_Data
