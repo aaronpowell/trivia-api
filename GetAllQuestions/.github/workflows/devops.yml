@@ -31,4 +31,4 @@ jobs:
         uses: Azure/functions-action@v1
         id: fa
         with:
-          app-name: triviaapidemp
+          app-name: ismailalabou-trivia-api
