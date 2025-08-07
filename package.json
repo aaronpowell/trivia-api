@@ -12,6 +12,6 @@
     "url": "https://www.aaron-powell.com"
   },
   "devDependencies": {
-    "azure-functions-core-tools": "^2.7.1948"
+    "azure-functions-core-tools": "^4.1.0"
   }
 }
